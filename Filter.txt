@@ -1066,4 +1066,6 @@
 4channel.org,arch.b4k.co##[data-md5="IWciucbav5Di5v7icP5VXg=="]
 4channel.org,arch.b4k.co##[data-md5="w69JjSbYHREXDv650pVAlw=="]
 4channel.org,arch.b4k.co##[data-md5="b2Dg7xhmdASQYPObceEVDg=="]
+4channel.org,arch.b4k.co##[data-md5="V+HuOhCLD1GfP08MVC1aQw=="]
+4channel.org,arch.b4k.co##[data-md5="iTYQSob2QYlP0KRdp4MxZQ=="]
 
