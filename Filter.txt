@@ -1269,3 +1269,4 @@
 4channel.org,arch.b4k.co##[data-md5="AARpdug8rla3PzA/pntoSw=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="xqrg+Ckg72vphFzWPhfW/w=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="tsddhfj2pZ3s/nEG4asVeg=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="0XAz0zAtNf8RAadeS/EJYw=="]:nth-ancestor(4)
