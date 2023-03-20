@@ -1625,3 +1625,4 @@
 4channel.org,arch.b4k.co##[data-md5="h8WnNwY9/rzB67tERtJFRA=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="IityoSPVPqTU9SekvE8UBg=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="1avGUUcrOFxII1J4ZYXwTw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="Kto2WubbXNZHH+5GqaWsEQ=="]:nth-ancestor(4)
