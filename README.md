@@ -12,3 +12,4 @@ If you are on iOS, install AdGuard for Safari and click Filters. Then click Cust
 If you are on Android, use KurobaEx and click on settings and then Filters. Create a filter and set Filter Type to Image hash, set the right Boards, and set Action to Remove post.
 Paste the contents of this permanent link in Enter filter RegEx pattern. Manually repaste it as it gets updated. Paste the link itself in the Enter a note box so you can reaccess it and then press save.
 https://raw.githubusercontent.com/SeaSpriter/Spam-filter/main/KurobaEx.txt
+
