@@ -1666,3 +1666,8 @@
 4channel.org,arch.b4k.co##[data-md5="kd17qb7sAvWwSr2B8ATUiw=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="QZWzLGjcv6efLISGMRYjcQ=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="pKjgv9r86sbWnmQT5w07EQ=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="99D2zJ23NaIFeFUY6RpdYA=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="kgRjTdeURElMSSul9i7QPw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="OUU4Fv6wejMXzLA31/ODUA=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="YXmTseFxleAjLz5SnEMvUw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="6ty/ssFld2reHWwCW8jcOQ=="]:nth-ancestor(4)
