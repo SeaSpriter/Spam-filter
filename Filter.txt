@@ -1665,3 +1665,4 @@
 4channel.org,arch.b4k.co##[data-md5="4onkKR6TVEFsD1LAHHIu1A=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="kd17qb7sAvWwSr2B8ATUiw=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="QZWzLGjcv6efLISGMRYjcQ=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="pKjgv9r86sbWnmQT5w07EQ=="]:nth-ancestor(4)
