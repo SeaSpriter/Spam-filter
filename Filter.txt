@@ -1862,3 +1862,4 @@
 4channel.org,arch.b4k.co##[data-md5="zppuIqGpIXeU1ZofJN+p5g=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="XUldVlnawt7/gZQf8+ko0Q=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="QI7mkc411dk66Ec73Srt0A=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="y9D/3j0BEfLOcXdcXJXNdw=="]:nth-ancestor(4)
