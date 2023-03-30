@@ -2087,3 +2087,4 @@
 4channel.org,arch.b4k.co##[data-md5="txv1w9pCNr2V7UM0FA4bXw=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="ygYUEGrOY5kg3X3/pXC78A=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="kAZe5Knt/0qeK+Oa1GKbpA=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="4PQok2MIdWssUsa1fpmHyA=="]:nth-ancestor(4)
