@@ -2090,3 +2090,4 @@
 4channel.org,arch.b4k.co##[data-md5="4PQok2MIdWssUsa1fpmHyA=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="uLSc6PUu5MDq+h5aDwdR9A=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="cWuxZlNhFxCE3EpSNVgMLw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="f2Li++91CHKiVxbp73cyTA=="]:nth-ancestor(4)
