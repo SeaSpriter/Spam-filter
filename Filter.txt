@@ -2700,3 +2700,4 @@
 4channel.org,arch.b4k.co##[data-md5="az6W/c9iBa5yN4Fpv8kAlA=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="Z18iLxe+5+1Z7X+uxFJc3w=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="dd5VgJtza5hqNTc44V+xcw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="tqVqnxvi8+Ia8hBCK0eRPw=="]:nth-ancestor(4)
