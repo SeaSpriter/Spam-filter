@@ -2719,3 +2719,4 @@
 4channel.org,arch.b4k.co##[data-md5="ABsZLLGL7R252R87Nyah9Q=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="6/unzfcdgY5LlLZRO+SYgQ=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="NnStGMdd/hPCTcCcHBe/EQ=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="Lw0upnGIocAzKtLOousVtQ=="]:nth-ancestor(4)
