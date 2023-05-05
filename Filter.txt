@@ -2722,3 +2722,4 @@
 4channel.org,arch.b4k.co##[data-md5="Lw0upnGIocAzKtLOousVtQ=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="vfFFZjooTlj3iHVD8dJq4w=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="LREfra9Y25B9vEIFpZHKog=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="DZNkoPVBgJFNS9Gz1k9jmg=="]:nth-ancestor(4)
