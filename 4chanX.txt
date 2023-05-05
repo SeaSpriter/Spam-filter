@@ -1,4 +1,5 @@
 # https://raw.githubusercontent.com/SeaSpriter/Spam-filter/main/4chanX.txt
+# Reopen the above link for updates.
 /rOo9vEZKcsv86ierI86bdw==/;stub:no
 /7Ih/IB0v6xz4TvGzfgp9bQ==/;stub:no
 /u4jU/R1GeojiU3Jx3gy35g==/;stub:no
