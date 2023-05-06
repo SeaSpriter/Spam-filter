@@ -2724,3 +2724,8 @@
 4channel.org,arch.b4k.co##[data-md5="LREfra9Y25B9vEIFpZHKog=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="DZNkoPVBgJFNS9Gz1k9jmg=="]:nth-ancestor(4)
 4channel.org,arch.b4k.co##[data-md5="avUPDUHyZZyXWExnqKxOyw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="mkR/LybBtl5lxLI9v/co5g=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="SC3+xYPqkRKz1WluTxlfqQ=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="ncFPNI57iirbb2DUrzF2fw=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="isuKZJCzGfZkiIxxs5h52Q=="]:nth-ancestor(4)
+4channel.org,arch.b4k.co##[data-md5="2c9/De8QqRdAW4d086n0Zw=="]:nth-ancestor(4)
